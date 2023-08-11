@@ -1,0 +1,1 @@
+A training set that includes projects on data analysis, data visualization, machine learning, deep learning, reinforcement learning, big data ecosystem and all. Project ideas do not belong to me. This training series is a set of codes prepared by adding the parts that I am curious about into ready-made projects for practical and educational purposes.
